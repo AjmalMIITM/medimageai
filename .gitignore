@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+*.h5
+*.keras
+preprocessed_isic/
+Skin cancer ISIC The International Skin Imaging Collaboration/
+__pycache__/
+*.zip
+
